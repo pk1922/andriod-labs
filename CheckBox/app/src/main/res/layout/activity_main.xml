@@ -7,8 +7,7 @@
         android:layout_marginTop="150dp"
         android:layout_marginLeft="100dp"
         android:textSize="18dp"
-        android:text="Select Your su ajre
-"
+        android:text="Select Your subject"
         android:textStyle="bold"
         android:id="@+id/txtView"/>
     <RadioGroup
